@@ -1,0 +1,11 @@
+.country {
+    @apply p-[20px] bg-amber-100 h-screen w-screen flex flex-col gap-[20px]
+}
+
+.body {
+    @apply flex gap-[10px] flex-col
+}
+
+.lable {
+    @apply flex gap-[15px]
+}
